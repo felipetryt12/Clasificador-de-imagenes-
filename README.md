@@ -6,3 +6,5 @@ Modelos entrenados y datasets grandes se han añadido a .gitignore para evitar s
 models/best_model_vgg16.keras
 data/organized/
 data/raw/
+data/test_unzipped
+data/train_unzipped

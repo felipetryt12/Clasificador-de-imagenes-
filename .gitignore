@@ -12,6 +12,7 @@ models/*.h5
 data/organized/
 data/raw/
 data/train_unzipped/
+data/test_unzipped/
 
 __pycache__/
 *.pyc
